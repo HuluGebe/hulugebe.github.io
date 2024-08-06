@@ -1,4 +1,5 @@
 baseURL: 'https://hulugebe.github.io' # set https://username.github.io
+title: '罗克鹅德的小站'
 homepage: 'https://hulugebe.github.io' # set https://username.github.io
 defaultContentLanguage: 'zh' #default language
 params:
