@@ -10,4 +10,4 @@ params:
   favicon: /images/avatar.png # blog site icon，replace your avatar in the /static/images/
   options:
     showDarkMode: true # is show dark mode button
-    enableMultiLang: true # is show multi language button
+    enableMultiLang: false # is show multi language button
