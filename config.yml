@@ -1,4 +1,6 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://hulugebe.github.io' # set https://username.github.io
+homepage: 'https://hulugebe.github.io' # set https://username.github.io
+defaultContentLanguage: 'zh'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
